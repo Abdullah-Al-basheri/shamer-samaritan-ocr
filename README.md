@@ -15,8 +15,9 @@ photographs.
 
 ## Demo
 
-![Shamer Demo](assets/demo.gif)
-
+<p align="center">
+  <img src="assets/demo.gif" width="320" alt="Shamer Demo">
+</p>
 <!-- Add your LinkedIn post link below, then remove the comment markers:
 [Watch the full demo on LinkedIn →](PUT_LINK_HERE)
 -->
